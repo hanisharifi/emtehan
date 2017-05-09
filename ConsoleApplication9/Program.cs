@@ -10,7 +10,7 @@ namespace ConsoleApplication9
     {
         static void Main(string[] args)
         {
-            int p = 20;
+            int p = 34;
         }
     }
 }
